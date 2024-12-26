@@ -1,1 +1,19 @@
-# teste-ebac-ui
+# Automação de UI com Cypress
+
+## Curso Qualidade de Software
+
+> Automação UI
+
+Projeto construído no curso Qualidade de Software (EBAC).
+
+## Tecnlogias
+
+-JavaScript
+
+-Cypress
+
+-Git e Github
+
+## Contato email
+
+drfranco17@gmail.com
