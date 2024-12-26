@@ -3,17 +3,13 @@
 ## Curso Qualidade de Software
 
 > Automação UI
-
 Projeto construído no curso Qualidade de Software (EBAC).
 
-## Tecnlogias
+## Tecnologias
 
 -JavaScript
-
 -Cypress
-
 -Git e Github
 
 ## Contato email
-
 drfranco17@gmail.com
